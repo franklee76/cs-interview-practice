@@ -11,4 +11,16 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
