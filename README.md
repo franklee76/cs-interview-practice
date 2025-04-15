@@ -86,5 +86,10 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/franklee76/cs-interview-practice/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/franklee76/cs-interview-practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
