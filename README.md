@@ -6,6 +6,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/franklee76/cs-interview-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
@@ -78,5 +79,6 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/franklee76/cs-interview-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
