@@ -17,6 +17,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
+| [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
 ## Linked List
 |  |
 | ------- |
@@ -27,4 +28,20 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
