@@ -8,6 +8,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
+| [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 | [1287-distance-between-bus-stops](https://github.com/franklee76/cs-interview-practice/tree/master/1287-distance-between-bus-stops) |
 ## Simulation
 |  |
@@ -74,4 +75,8 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/franklee76/cs-interview-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
