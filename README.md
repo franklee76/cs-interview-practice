@@ -9,6 +9,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/franklee76/cs-interview-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
+| [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 | [1287-distance-between-bus-stops](https://github.com/franklee76/cs-interview-practice/tree/master/1287-distance-between-bus-stops) |
 ## Simulation
@@ -56,6 +57,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Quickselect
 |  |
 | ------- |
@@ -81,4 +83,8 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/franklee76/cs-interview-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
