@@ -7,6 +7,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/franklee76/cs-interview-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/franklee76/cs-interview-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,4 +93,8 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/franklee76/cs-interview-practice/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/franklee76/cs-interview-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 <!---LeetCode Topics End-->
