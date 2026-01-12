@@ -34,6 +34,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
+| [1768-merge-strings-alternately](https://github.com/franklee76/cs-interview-practice/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
 | ------- |
@@ -117,4 +118,8 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/franklee76/cs-interview-practice/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
