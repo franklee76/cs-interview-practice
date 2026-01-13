@@ -10,6 +10,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/franklee76/cs-interview-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/franklee76/cs-interview-practice/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/franklee76/cs-interview-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -134,6 +135,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/franklee76/cs-interview-practice/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
