@@ -10,6 +10,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/franklee76/cs-interview-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
+| [0605-can-place-flowers](https://github.com/franklee76/cs-interview-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
@@ -125,4 +126,8 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/franklee76/cs-interview-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/franklee76/cs-interview-practice/tree/master/1768-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/franklee76/cs-interview-practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
