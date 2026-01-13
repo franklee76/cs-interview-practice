@@ -14,6 +14,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/franklee76/cs-interview-practice/tree/master/1287-distance-between-bus-stops) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/franklee76/cs-interview-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Simulation
 |  |
 | ------- |
