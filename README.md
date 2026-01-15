@@ -20,6 +20,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/franklee76/cs-interview-practice/tree/master/1287-distance-between-bus-stops) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/franklee76/cs-interview-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
 ## Linked List
 |  |
@@ -45,6 +47,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0283-move-zeroes](https://github.com/franklee76/cs-interview-practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/franklee76/cs-interview-practice/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
@@ -75,6 +78,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Quickselect
 |  |
 | ------- |
