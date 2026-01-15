@@ -10,6 +10,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/franklee76/cs-interview-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/franklee76/cs-interview-practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/franklee76/cs-interview-practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0495-teemo-attacking](https://github.com/franklee76/cs-interview-practice/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/franklee76/cs-interview-practice/tree/master/0605-can-place-flowers) |
@@ -39,6 +40,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/franklee76/cs-interview-practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/franklee76/cs-interview-practice/tree/master/1768-merge-strings-alternately) |
 ## Design
