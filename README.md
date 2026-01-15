@@ -6,6 +6,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/franklee76/cs-interview-practice/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/franklee76/cs-interview-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/franklee76/cs-interview-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -37,6 +38,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/franklee76/cs-interview-practice/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -140,6 +142,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/franklee76/cs-interview-practice/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/franklee76/cs-interview-practice/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
