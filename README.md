@@ -42,6 +42,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0151-reverse-words-in-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/franklee76/cs-interview-practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/franklee76/cs-interview-practice/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
@@ -111,6 +112,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/franklee76/cs-interview-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0392-is-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
@@ -132,6 +134,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/franklee76/cs-interview-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/franklee76/cs-interview-practice/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/franklee76/cs-interview-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/franklee76/cs-interview-practice/tree/master/1768-merge-strings-alternately) |
 ## Greedy
