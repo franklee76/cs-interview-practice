@@ -21,6 +21,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/franklee76/cs-interview-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1287-distance-between-bus-stops](https://github.com/franklee76/cs-interview-practice/tree/master/1287-distance-between-bus-stops) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/franklee76/cs-interview-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/franklee76/cs-interview-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -36,6 +37,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0141-linked-list-cycle](https://github.com/franklee76/cs-interview-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/franklee76/cs-interview-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/franklee76/cs-interview-practice/tree/master/2215-find-the-difference-of-two-arrays) |
