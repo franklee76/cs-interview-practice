@@ -17,6 +17,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0605-can-place-flowers](https://github.com/franklee76/cs-interview-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/franklee76/cs-interview-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/franklee76/cs-interview-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/franklee76/cs-interview-practice/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/franklee76/cs-interview-practice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/franklee76/cs-interview-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/franklee76/cs-interview-practice/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
