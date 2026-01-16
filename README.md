@@ -24,6 +24,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/franklee76/cs-interview-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/franklee76/cs-interview-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/franklee76/cs-interview-practice/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +161,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/franklee76/cs-interview-practice/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/franklee76/cs-interview-practice/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
