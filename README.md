@@ -26,6 +26,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/franklee76/cs-interview-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/franklee76/cs-interview-practice/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/franklee76/cs-interview-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0142-linked-list-cycle-ii](https://github.com/franklee76/cs-interview-practice/tree/master/0142-linked-list-cycle-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-stock-price-fluctuation](https://github.com/franklee76/cs-interview-practice/tree/master/2161-stock-price-fluctuation) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/franklee76/cs-interview-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
