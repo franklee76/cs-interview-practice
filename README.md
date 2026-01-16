@@ -19,6 +19,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | [0643-maximum-average-subarray-i](https://github.com/franklee76/cs-interview-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/franklee76/cs-interview-practice/tree/master/0948-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1287-distance-between-bus-stops](https://github.com/franklee76/cs-interview-practice/tree/master/1287-distance-between-bus-stops) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/franklee76/cs-interview-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/franklee76/cs-interview-practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -105,6 +106,7 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/franklee76/cs-interview-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/franklee76/cs-interview-practice/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -155,9 +157,11 @@ leetcode problems code sync w. [leethub-2.0](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/franklee76/cs-interview-practice/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/franklee76/cs-interview-practice/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/franklee76/cs-interview-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/franklee76/cs-interview-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
